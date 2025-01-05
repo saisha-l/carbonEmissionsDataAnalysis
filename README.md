@@ -1,5 +1,6 @@
 # Carbon Emissions Analysis: An analysis of how different sectors impact overall emissions
 
+### View the website at https://ariseco2.my.canva.site/
 ## Overview  
 This project analyzes carbon emissions data across four critical sectors—Transportation, Industrial, Agriculture, and Electrical. Using Python, SQL, and Google Colab, we explored trends, identified key insights, and visualized data to understand the contributions of each sector to global emissions. The data was sourced from the **International Energy Agency (IEA)**, and the final findings were presented to the **Starbucks Technology Team** at their headquarters in Sodo, Seattle.
 
